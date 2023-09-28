@@ -18,7 +18,7 @@ conda env create -f environment.yml
 ### Play with PanoDiffusion
 
 We have already prepared some images and masks under 'example' folder. To test the model, you can simply run:
-'''
+```
 python inference.py \
 --indir PanoDiffusion/example \
 --outdir PanoDiffusion/example/output \
@@ -29,5 +29,5 @@ python inference.py \
 or 
 
 bash inference.sh
-'''
+```
 The results will be saved in the 'output' folder. Each time you run the code you will get a new outpainting result.
