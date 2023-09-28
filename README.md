@@ -2,6 +2,12 @@
 
 This repo is the code for ICLR 2024 submission 821 - PanoDiffusion: 360-degree Panorama Outpainting via Diffusion.
 
+<p align="center">
+  <a href="">
+    <img src="./media/teaser.gif" alt="Logo" width="95%">
+  </a>
+</p>
+
 ## Setup
 
 ### Installation
