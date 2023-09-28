@@ -1,4 +1,4 @@
-python /mnt/lustre/thwu/inpainting/PanoDiffusion/inference.py \
+python inference.py \
 --indir PanoDiffusion/example \
 --outdir PanoDiffusion/example/output \
 --ckpt PanoDiffusion/pretrain_model/ldm/ldm.ckpt \
