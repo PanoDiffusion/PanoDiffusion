@@ -10,7 +10,7 @@
 
   </p>
   <h3 align="center">ICLR 2024</h3>
-  <h3 align="center"><a href="https://arxiv.org/abs/2307.03177">Paper</a> | <a href="https://qianyiwu.github.io/objectsdf++">Project Page</a></h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2307.03177">Paper</a> | <a href="https://sm0kywu.github.io/panodiffusion/">Project Page</a></h3>
   <div align="center"></div>
 </p>
 
